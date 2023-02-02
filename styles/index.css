@@ -1,0 +1,97 @@
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    /* or 48px */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px;
+}
+
+.logo-dot {
+    font-family: 'Coda caption';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 160%;
+    /* or 48px */
+    letter-spacing: -0.02em;
+    color: #824FF1;
+}
+
+.header 
+    
+
+
+.nav-bar {
+
+    padding: 38px;
+    margin-top: 48px;
+    margin-left: 273px;
+    text-align: center;
+    display: inline;
+}
+
+li {
+    float: left;
+    list-style: none;
+    font-family: 'Roboto';
+    display: block;
+    padding: 8px;
+}
+
+.main-title {
+    max-width: 495px;
+    width: 100%;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 203px;
+    margin-left: 200px;
+}
+
+.main-info {
+    max-width: 590px;
+    width: 100%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+section {
+    display: inline-block;
+}
+.main-btn {
+    
+    width: 152px;
+    height: 63.82px;
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: #824FF1;
+    border-radius: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
+    }
